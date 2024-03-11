@@ -1,0 +1,53 @@
+{
+  "coffeeData": [
+    {
+      "id": 1,
+      "name": "Juhla Mokka",
+      "weight": 500,
+      "price": 3.99,
+      "roast": "MEDIUM"
+    },
+    {
+      "id": 2,
+      "name": "Juhla Mokka Espresso",
+      "weight": 400,
+      "price": 4.99,
+      "roast": "ESPRESSO"
+    },
+    {
+      "id": 3,
+      "name": "Juhla Mokka Tummapaahto",
+      "weight": 300,
+      "price": 3.33,
+      "roast": "DARK"
+    },
+    {
+      "id": 4,
+      "name": "JuhlaMokka4",
+      "weight": 1000,
+      "price": 9.99,
+      "roast": "LIGHT"
+    },
+    {
+      "id": 5,
+      "name": "Juhlá Mokká",
+      "weight": 1000,
+      "price": 9.99,
+      "roast": "FRENCH"
+    },
+    {
+      "id": 6,
+      "name": "presidentti",
+      "weight": 500,
+      "price": 20,
+      "roast": "DARK"
+    },
+    {
+      "id": 7,
+      "name": "sumppi",
+      "weight": 200,
+      "price": 3.33,
+      "roast": "LIGHT"
+    }
+  ]
+}
